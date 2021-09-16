@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.toDoItem {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.completedItem {
+  color: green;
+  font-size: 20px;
+  text-decoration: line-through;
+  opacity: 0.3;
+}
